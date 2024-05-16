@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1621284783 source:c:\users\thanos\desktop\battleship\deck.cpp
+	"deck.h"
+	"shuffler.h"
+
+1620854327 c:\users\thanos\desktop\battleship\deck.h
+	"card.h"
+
+1621024886 c:\users\thanos\desktop\battleship\card.h
+	<string>
+	"player.h"
+
+1621455136 c:\users\thanos\desktop\battleship\player.h
+	"grid.h"
+
+1621108353 c:\users\thanos\desktop\battleship\grid.h
+	"ship.h"
+
+1620850482 c:\users\thanos\desktop\battleship\ship.h
+	"square.h"
+
+1619555819 c:\users\thanos\desktop\battleship\square.h
+	<sstream>
+
+1622152391 c:\users\thanos\desktop\battleship\shuffler.h
+	<iostream>
+	<cstdlib>
+
+1621100501 source:c:\users\thanos\desktop\battleship\game.cpp
+	<iomanip>
+	<iostream>
+	"game.h"
+
+1621100112 c:\users\thanos\desktop\battleship\game.h
+	"deck.h"
+	"player.h"
+
+1621108356 source:c:\users\thanos\desktop\battleship\grid.cpp
+	<iostream>
+	<cstdlib>
+	"grid.h"
+	"player.h"
+
+1622152490 source:c:\users\thanos\desktop\battleship\main.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"game.h"
+
+1621109355 source:c:\users\thanos\desktop\battleship\player.cpp
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1619561580 source:c:\users\thanos\desktop\battleship\ship.cpp
+	"ship.h"
+
+1619555830 source:c:\users\thanos\desktop\battleship\square.cpp
+	<iostream>
+	"square.h"
+
+1622127819 source:c:\users\thanos\desktop\battleship\card.cpp
+	<iostream>
+	"card.h"
+
